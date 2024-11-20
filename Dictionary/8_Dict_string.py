@@ -33,6 +33,5 @@ def main():
     result = create_dict_from_string(sample_string)
     print("Resultant Dictionary:", result)
 
-
 if __name__ == "__main__":
     main()
